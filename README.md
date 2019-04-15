@@ -15,3 +15,11 @@ npm install
 ```bash
 node index.js
 ```
+
+## Entrada
+
+![input XML](screenshot/input.PNG)
+
+## Salida
+
+![output XML](screenshot/output.PNG)
