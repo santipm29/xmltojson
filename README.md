@@ -1,5 +1,13 @@
 # Transformación de XML a JSON
 
+## Entrada
+
+![input XML](screenshot/input.PNG)
+
+## Salida
+
+![output XML](screenshot/output.PNG)
+
 ## Requerimientos
 
 Nodejs
@@ -16,10 +24,3 @@ npm install
 node index.js
 ```
 
-## Entrada
-
-![input XML](screenshot/input.PNG)
-
-## Salida
-
-![output XML](screenshot/output.PNG)
